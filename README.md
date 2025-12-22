@@ -1,129 +1,93 @@
-# 🦀 Rust & Move Resources for Learning
-
-Focused mainly on **NEAR**, **Solana**, and **Move (Sui ecosystem)**.
-
----
+# Rust & Move Resources for Learning
 
 ## 🦀 Rust
+*Mainly Near and SOL*
 
-### 🎓 Free Courses & Videos
+### Free Courses/Videos
 
-#### Rust Programming Basics
-- [Guvenkaya – Rust Security Course](https://www.youtube.com/@guvenkaya)
-- [Zero to Mastery – Rust 101 Crash Course](https://zerotomastery.io/courses/learn-rust/)
-- [freeCodeCamp – Learn Rust Programming](https://www.youtube.com/watch?v=MsocPEZBd-M)
-- [BekBrace – Rust Programming Full Course (3h)](https://www.youtube.com/watch?v=ygL_xcavzQ4)
-- [Let’s Get Rusty (YouTube)](https://www.youtube.com/@letsgetrusty)
+**Rust Programming Basics**
+- [Rust Programming Basics](https://www.youtube.com/watch?v=K0N5HPjhMqc&list=PLVhhUNGAUIQScqB26DdUq4n1Y2n3auM7X)
 
-#### Official & Core Learning
-- [The Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
-- [Rust Survival Guide](https://github.com/pretzelhammer/rust-blog)
-- [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
-- [Rust Bites](https://bytes.rust-lang.org/)
+**YT Courses**
+- [Guvenkaya: Rust Security Course](https://www.youtube.com/watch?v=FOhXhDbB-34&list=PLz6FlWfpOBh9qr2zJWEYPOLOPAL-dYElX)
+- [Zero to Mastery: Rust 101 Crash Course](https://www.youtube.com/watch?v=lzKeecy4OmQ)
+- [Freecodecamp: Learn Rust Programming](https://www.youtube.com/watch?v=BpPEoZW5IiY)
+- [BekBrace: Rust Programming Full Course 3h05m](https://www.youtube.com/watch?v=VFkL-c9jMDQ)
+- **Lets Get Rusty:**
+  - [The Rust LangBook](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+  - [Rust Crates](https://www.youtube.com/watch?v=3dg9v5XGLKU&list=PLai5B987bZ9DKuiIInHs04k2QkwHSkzeq)
+  - [Rust Survival Guide](https://www.youtube.com/watch?v=hVxsFHo0QCE&list=PLai5B987bZ9Df23eHe2gLZLFz9k_YBuiU)
+  - [Idiomatic Rust](https://www.youtube.com/watch?v=tl67K5tcU3Y&list=PLai5B987bZ9DVDRK8z-_6Rk17-QMM-Jyf)
+  - [Memory Management](https://www.youtube.com/watch?v=8M0QfLUDaaA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8&index=10)
+  - [Rust Bites](https://www.youtube.com/watch?v=rQ_J9WH6CGk&list=PLai5B987bZ9DcnMcoveoKxTLi7KNSKd9x)
 
----
-
-### 🎥 Interesting Videos
-- [Stages of Learning Rust](https://www.youtube.com/watch?v=5C_HPTJg5ek)
+**Interesting Videos:**
+- [Stages of Learning Rust](https://www.youtube.com/watch?v=I_EoIJVNeJk)
 - [How to Learn Rust](https://www.youtube.com/watch?v=2hXNd6x9sZs)
-- [Learning Rust the Wrong Way – NDC 2022](https://www.youtube.com/watch?v=ZQxqzDk4P9A)
-- [5 Things I Wish I Knew Before Learning Rust](https://www.youtube.com/watch?v=8wZ2ZD--VTk)
-- [Why Rust for Blockchain?](https://www.youtube.com/watch?v=7fF1JxM9ZlA)
+- [Learning Rust the wrong way NDC 2022](https://www.youtube.com/watch?v=DL9LANLg5EA)
+- [5 things I wish I knew before learning Rust](https://www.youtube.com/watch?v=udQa2wg5teU)
+- [Why Rust for Blockchain?](https://www.youtube.com/watch?v=vCVvSq3VZ7k)
 
----
+### Paid Courses:
+- [FE Masters - Rust for TS developers](https://frontendmasters.com/courses/rust-ts-devs/)
 
-### 💰 Paid Courses
-- [Frontend Masters – Rust for TypeScript Developers](https://frontendmasters.com/courses/rust-ts-devs/)
+### NEAR Courses/Videos
+- [Near SC Security Course](https://www.youtube.com/watch?v=CIm86hNtQoo)
+- [Near Certified Developer](https://www.near.university/courses/near-certified-developer)
+- [Near Rust Tutorial Github](https://github.com/near-examples/docs-examples)
+- [Near Smart Contract Course](https://www.youtube.com/watch?v=vPxOO8-Q7mM)
+- [Test-Driven Design for NEAR Smart Contracts](https://www.youtube.com/watch?v=K-8lXzrvVaU)
+- [Best Practices for NEAR Smart Contract Development](https://www.youtube.com/watch?v=u0gw_wSajiI)
 
----
+### Solana Courses/Videos
+- [Solana Developer Bootcamp 2024 (11h)](https://www.youtube.com/watch?v=0P8JeL3TURU)
+- [Complete solana and rust roadmap in 2025](https://www.youtube.com/watch?v=KbhHJYfKGkQ)
+- [You don't need a bootcamp - build a Solana program (smart contract) in 30 minutes](https://www.youtube.com/watch?v=pRhT7Cc-42g)
+- [Building SmartContracts With Solana and Rust Lang](https://www.youtube.com/watch?v=gA7hFdq2h9Q)
 
-## 🌐 NEAR Protocol
-
-### Courses & Videos
-- [NEAR Smart Contract Security Course](https://www.near.university/)
-- [NEAR Certified Developer Program](https://www.near.university/certifications)
-- [NEAR Rust Tutorial (GitHub)](https://github.com/near-examples)
-- [NEAR Smart Contract Course](https://learnnear.club/)
-- [Test-Driven Design for NEAR Smart Contracts](https://github.com/near/near-sdk-rs)
-- [Best Practices for NEAR Smart Contract Development](https://docs.near.org/develop/smart-contracts)
-
----
-
-## ☀️ Solana
-
-### Courses & Videos
-- [Solana Developer Bootcamp 2024 (11h)](https://www.youtube.com/watch?v=amAq-WHAFs8)
-- [Complete Solana & Rust Roadmap (2025)](https://www.youtube.com/watch?v=Rk9p1zU3Yk0)
-- [Build a Solana Program in 30 Minutes](https://www.youtube.com/watch?v=I4B2VYJxw7E)
-- [Building Smart Contracts with Solana & Rust](https://www.youtube.com/watch?v=4fQk8zX7b2Y)
-
----
-
-## 📚 Rust Reading
-- [Rust Atomics and Locks](https://marabos.nl/atomics/)
-- [Zero to Production in Rust – Luca Palmieri](https://www.zero2prod.com/)
+### Reading:
+- [Rust Atomics](https://marabos.nl/atomics/)
+- [Zero to Production in Rust - Luca Palmieri](https://www.zero2prod.com/)
 - [Rust in Action](https://www.manning.com/books/rust-in-action)
 
----
-
-## 🧪 Practice & Training
+### Training:
 - [Rustlings](https://github.com/rust-lang/rustlings)
-- [HackerRank – Rust](https://www.hackerrank.com/domains/tutorials/10-days-of-rust)
-- [Exercism – Rust Track](https://exercism.org/tracks/rust)
+- [HackerRank](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+- [Exercism (Rust)](https://exercism.org/tracks/rust)
 
----
-
-## 🔧 Rust Ecosystem & Tooling
+### Relevant
+- [Youtube Channels for Rust Developers (Reddit)](https://www.reddit.com/r/rust/comments/16y4gkc/best_youtube_channels_for_rust_developers/)
 - [Tokio Tutorial](https://tokio.rs/tokio/tutorial)
-- [Rayon](https://github.com/rayon-rs/rayon)
-- [docs.rs](https://docs.rs/)
+- [Rayon](https://docs.rs/rayon/latest/rayon/)
+- [Docs.rs](https://docs.rs/)
 - [crates.io](https://crates.io/)
-- [YouTube Channels for Rust Devs (Reddit)](https://www.reddit.com/r/rust/comments/)
 
----
+### Personal projects:
 
-## 🛠️ Personal Project Ideas
-
-### Beginner
+**Basic**
 - Translate TypeScript projects to Rust
-- Build a Rust CLI for blockchain indexing
-- Create a basic static analysis / security tool in Rust
+- Some CLI tool ([Rust CLI for Blockchain Indexing](https://github.com/near/nearcore/tree/master/tools/indexer))
+- Some basic security/static analysis tool in Rust
 
-### Medium / Advanced (Testnet / Devnet)
-- Solana Escrow / DEX smart contract
-- NEAR Escrow smart contract
-- NEAR DAO treasury with on-chain voting
-
----
-
-## 🔁 Move (Sui Ecosystem)
-
-### Learning Resources
-- [The Move Book](https://move-language.github.io/move/)
-- [Sui Move GitHub](https://github.com/MystenLabs/sui)
-- [Sui Move Bootcamp](https://github.com/MystenLabs/sui-move-intro-course)
-- [Move on Sui Documentation](https://docs.sui.io/build/move)
-- [Move on Sui Course 1.1 (YouTube)](https://www.youtube.com/watch?v=PQKX5v6bZ7M)
-- [Fast & Reliable Smart Contracts on Sui – Converge22](https://www.youtube.com/watch?v=O0Q7j6kNw0I)
-- [Introduction to Sui & Move – Sui Foundation](https://www.youtube.com/watch?v=9xJk5JpZC8M)
-- [Sui Move Course (YouTube)](https://www.youtube.com/@SuiDev)
+**Medium/Advanced (Testnet/devnet)**
+- [Solana Escrow Dex Contract](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
+- [Near Escrow Contract](https://github.com/near-examples/rust-high-level-cross-contract)
+- [Near DAO treasury with voting](https://github.com/near-daos/sputnik-dao-contract)
 
 ---
 
-## ➕ Extra Crypto & Blockchain Resources
+## MOVE
 
-### Awesome Repositories
-- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
-- [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)
-- [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
-- [Awesome Web3](https://github.com/ahmedali8/awesome-web3)
-
-### Security
-- [Rust Security Advisories](https://github.com/RustSec/advisory-db)
-- [Smart Contract Security Verification Standard](https://github.com/securing/SCSVS)
-- [Trail of Bits Blog](https://blog.trailofbits.com/)
+- [Move Book](https://move-language.github.io/move/)
+- [Github Sui Move](https://github.com/MystenLabs/sui/tree/main/sui-execution/latest/sui-move-natives)
+- [Github Sui Move Bootcamp](https://github.com/sui-foundation/sui-move-intro-course)
+- [Move on Sui](https://docs.sui.io/guides/developer/first-app)
+- [Move on Sui Course 1.1 Youtube](https://www.youtube.com/watch?v=qLKUek8bJMM&list=PLbx8b-XOGh3o49RL5_XNBzumQw-fMhYpy)
+- [Fast and Reliable Smart Contracts on Sui with Move - Converge22](https://www.youtube.com/watch?v=bWPBW-QRkwY)
+- [Introduction to Sui and Move - Sui Foundation YT](https://www.youtube.com/watch?v=CbmOdQYqcTI)
+- [Sui Move Course Youtube](https://www.youtube.com/watch?v=lEquhv19wiM&list=PLgEdpyXO83DiG32hxA61vf0FW1j2kTQ6g)
 
 ---
 
-## 📖 Crypto Basics
-- [Crypto 101](https://crypto101.io/)
+## Extra
+- [Crypto 101](https://www.crypto101.io/)
