@@ -33,7 +33,7 @@
 
 ### NEAR Courses/Videos
 - [Near SC Security Course](https://www.youtube.com/watch?v=CIm86hNtQoo)
-- [Near Certified Developer](https://www.near.university/courses/near-certified-developer)
+- [Near Certified Developer](https://learnnear.club/courses/near-certified-developer/)
 - [Near Rust Tutorial Github](https://github.com/near-examples/docs-examples)
 - [Near Smart Contract Course](https://www.youtube.com/watch?v=vPxOO8-Q7mM)
 - [Test-Driven Design for NEAR Smart Contracts](https://www.youtube.com/watch?v=K-8lXzrvVaU)
